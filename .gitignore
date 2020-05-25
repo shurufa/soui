@@ -46,3 +46,10 @@ Ankh.NoLoad
 
 #Soui
 demos
+
+*.filters
+*.vcxproj
+.vs/
+Backup/
+*.vcxproj
+UpgradeLog.htm
